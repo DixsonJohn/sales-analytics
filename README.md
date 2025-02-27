@@ -1,6 +1,6 @@
 # Pre-requisites
 - Install [Node.js](https://nodejs.org/en/) version 14.x or later
-- Install [MySQL](https://dev.mysql.com/downloads/) version 14.x or later
+- Install [MySQL](https://dev.mysql.com/downloads/) version 8.x or later
 
 # Getting started
 - Clone the repository
