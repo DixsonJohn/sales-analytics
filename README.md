@@ -23,6 +23,9 @@ npm start
 ```
   Navigate to `http://localhost:3000`
 
+  run /api/refresh API to trigger data from the csv file
+  
+
 ## APIs List
 
 |Endpoint	           | Method	           | Description | Sample Response |
