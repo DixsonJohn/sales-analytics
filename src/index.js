@@ -3,7 +3,7 @@ const salesRoutes = require('./routes/sales.routes');
 const dataRefreshRoutes = require('./routes/dataRefresh.routes');
 const errorHandler = require('./middleware/errorHandler');
 require('dotenv').config();
-require('./jobs/dataRefresh'); // 🔹 Start scheduled data refresh job
+require('./jobs/dataRefresh'); // Start scheduled data refresh job
 
 const app = express();
 
